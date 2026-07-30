@@ -104,7 +104,7 @@ const copy = {
       "从触觉与身体接口，到机器视觉、生成系统和生物计算。",
     sourceTitle: "来源、信用与版权",
     sourceBody:
-      "本档案以艺术家官网和机构来源为边界。图片仅用于本地研究预览，公开再利用权利仍需逐项核验。",
+      "本档案以艺术家官网和机构来源为边界。图片仅作非商业研究与引用展示，进一步公开再利用仍需逐项核验权利。",
     accessed: "访问日期",
     notCatalogue: "研究样本，不是作品全集或 catalogue raisonné。",
     chineseSummary: "中文研究摘要",
@@ -193,7 +193,7 @@ const copy = {
       "From haptic and bodily interfaces to machine vision, generative systems, and biological computing.",
     sourceTitle: "Sources, credits, and rights",
     sourceBody:
-      "The archive is bounded by artist and institutional sources. Images are used for local research preview; public reuse rights require individual review.",
+      "The archive is bounded by artist and institutional sources. Images are shown for non-commercial research and citation; any further public reuse requires individual rights review.",
     accessed: "Accessed",
     notCatalogue:
       "A research sample, not a complete catalogue or catalogue raisonné.",
