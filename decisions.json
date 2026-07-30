@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "visual_references": {
+    "status": "approved",
+    "primary": {
+      "id": "A",
+      "name": "Daito Manabe — Selected Works",
+      "url": "https://daito.ws/projects/selected-works/en/",
+      "role": "overall_system",
+      "selected_patterns": [
+        "暗色工程网格",
+        "标签化作品中枢",
+        "高对比双语层级",
+        "项目与档案双入口"
+      ],
+      "rejected_patterns": [
+        "过密栅格线",
+        "小字号长文",
+        "把黑底科技感当作唯一视觉符号"
+      ]
+    },
+    "supporting": [
+      {
+        "id": "D",
+        "name": "NTT InterCommunication Center — MANABE Daito",
+        "url": "https://www.ntticc.or.jp/en/archive/participants/manabe-daito/",
+        "role": "institutional_relationships",
+        "selected_patterns": [
+          "人物—作品—展览—影像关系",
+          "章节侧栏",
+          "机构档案语气"
+        ],
+        "rejected_patterns": [
+          "传统机构页头",
+          "过于保守的视觉节奏"
+        ]
+      },
+      {
+        "id": "H",
+        "name": "M+ — Collection Online",
+        "url": "https://www.mplus.org.hk/en/collection/",
+        "role": "filtering_and_image_grid",
+        "selected_patterns": [
+          "结果数与轻量筛选",
+          "网格与列表切换",
+          "保留原图比例的作品墙"
+        ],
+        "rejected_patterns": [
+          "超大馆藏所需的复杂筛选",
+          "与作品竞争的高饱和彩色背景"
+        ]
+      },
+      {
+        "id": "J",
+        "name": "Wellcome Collection — Stories",
+        "url": "https://wellcomecollection.org/stories",
+        "role": "longform_reading",
+        "selected_patterns": [
+          "长文导语",
+          "内容类型标签",
+          "主图与摘要分栏",
+          "舒适中文正文宽度"
+        ],
+        "rejected_patterns": [
+          "以编辑内容取代作品数据库",
+          "弱化技术元数据"
+        ]
+      }
+    ],
+    "approved_at": "2026-07-27"
+  },
+  "visual_direction": {
+    "status": "approved",
+    "selection": {
+      "base": "03 Field Notes / 场域札记",
+      "combined_patterns": [
+        "01 Signal Grid 的 SENSE → MEASURE → MODEL → ACT → FEEDBACK 信号闭环",
+        "02 Live Index 的多比例作品墙、搜索与轻量筛选"
+      ],
+      "decision_note": "以研究阅读为主体，在暗色系统外壳与浅色编辑正文之间切换；作品索引保留更强的图像浏览能力。"
+    },
+    "rules": {
+      "grid": {
+        "desktop_reference": "1440px",
+        "content_max_width": "1440px",
+        "desktop_columns": 12,
+        "article_width": "760px",
+        "chapter_navigation_width": "220–240px",
+        "evidence_column_width": "280–320px",
+        "mobile": "390px single column"
+      },
+      "typography": {
+        "sans": "Inter, Helvetica Neue, PingFang SC, Noto Sans CJK SC, Arial, sans-serif",
+        "serif": "Songti SC, Noto Serif CJK SC, Georgia, serif",
+        "mono": "SFMono-Regular, Roboto Mono, IBM Plex Mono, Menlo, Consolas, monospace",
+        "size_scale_px": [
+          11,
+          13,
+          15,
+          18,
+          24,
+          32,
+          48,
+          72,
+          112
+        ],
+        "body_line_height": 1.75,
+        "metadata_line_height": 1.5
+      },
+      "color": {
+        "dark_background": "#111111",
+        "dark_foreground": "#F5F3EC",
+        "paper_background": "#EEEAE0",
+        "paper_foreground": "#161614",
+        "editorial_accent": "#D4542B",
+        "signal_accent": "#59F3FF",
+        "contrast_target": "WCAG AA for text and interactive controls"
+      },
+      "spacing_scale_px": [
+        4,
+        8,
+        12,
+        18,
+        24,
+        36,
+        48,
+        72
+      ],
+      "images": {
+        "hero_ratio": "16:9",
+        "case_ratio": "3:2",
+        "archive_grid": "preserve source aspect ratio",
+        "crop_behavior": "object-fit: cover for hero and cards; full image available in detail view",
+        "credit_position": "directly below each related image or work detail"
+      },
+      "cards": {
+        "grid_min_height": "440px",
+        "list_min_height": "auto",
+        "title_rows": 2,
+        "action_alignment": "bottom aligned"
+      },
+      "section_ratio": {
+        "dark": "35%",
+        "light": "65%"
+      },
+      "interaction": {
+        "selection_accent": "#D4542B",
+        "signal_accent": "#59F3FF",
+        "filters": [
+          "time",
+          "medium",
+          "mechanism",
+          "input",
+          "version"
+        ],
+        "views": [
+          "masonry grid",
+          "research list"
+        ],
+        "detail": "desktop side panel; mobile full-width sheet",
+        "language": "Chinese and English without page reload; preserve filters, active work, view mode and details"
+      },
+      "responsive": {
+        "desktop": "sticky chapter navigation, three-column reading layout and side detail panel",
+        "tablet": "two-column content with collapsible evidence panel",
+        "mobile": "single column; horizontal filter scroller; readable 18–20px lead text; full-width work details"
+      }
+    },
+    "approved_at": "2026-07-27"
+  },
+  "figma_write": {
+    "status": "awaiting_edit_access",
+    "target_url": "https://www.figma.com/design/Z2EUnLTzPsmhGmJMgpNZDw/调研展示｜毕设开题调研版?node-id=0-1",
+    "file_key": "Z2EUnLTzPsmhGmJMgpNZDw",
+    "target_type": "design",
+    "target_strategy": "append_full_page_editable_web_capture_to_existing_page_preserve_existing",
+    "file_name": "调研展示｜毕设开题调研版",
+    "target_page": {
+      "id": "0:1",
+      "name": "00-Cover-Visual-Guide"
+    },
+    "planned_frame": {
+      "name": "Daito Manabe / 真锅大度 — Full Archive Prototype - editable capture",
+      "viewport_width": 1440,
+      "height": "full natural page height",
+      "placement": "right of the current rightmost top-level frame with at least 160px gap",
+      "format": "editable HTML-derived Figma layers; not a bitmap-only screenshot"
+    },
+    "superseded_plan": "five-page foundations/desktop/mobile/detail/capture structure",
+    "capture_direction_confirmed_at": "2026-07-30T23:03:45+08:00",
+    "write_plan": "07_figma/figma-write-plan.md",
+    "approved_at": "2026-07-27",
+    "permission_check": {
+      "account_plan": "starter",
+      "seat": "View",
+      "metadata_read": "available",
+      "plugin_api": "invalid_argument",
+      "library_query": "invalid_argument",
+      "web_capture": "invalid_argument",
+      "attempts": 5,
+      "last_checked_at": "2026-07-30T23:14:24+08:00",
+      "last_result": "connected account remains Starter/View; official web capture initialization targeting existing page 0:1 rejected with INVALID_ARGUMENT; no capture task created and no nodes changed"
+    }
+  },
+  "publishing": {
+    "status": "in_progress",
+    "github_visibility": "public",
+    "github_repository": "https://github.com/teemo1157/daito-manabe-research-archive",
+    "production_overwrite": true,
+    "license": "MIT",
+    "vercel_project": "daito-manabe-research",
+    "vercel_url": "https://daito-manabe-research.vercel.app",
+    "git_integration": "pending",
+    "third_party_policy": "MIT covers site code and original documentation only. Research downloads and captured source pages are excluded; credited website previews remain outside the MIT grant and retain needs_review rights status.",
+    "approved_at": "2026-07-31"
+  }
+}

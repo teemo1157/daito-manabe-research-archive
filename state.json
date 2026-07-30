@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-31T00:28:17+08:00",
+  "stages": {
+    "preflight": {
+      "status": "complete",
+      "artifacts": [
+        "project.json",
+        "state.json",
+        "decisions.json"
+      ],
+      "notes": [
+        "Archive initialized without replacing existing files."
+      ],
+      "completed_at": "2026-07-26T17:11:55.612Z"
+    },
+    "research": {
+      "status": "complete",
+      "artifacts": [
+        "data/artworks.jsonl"
+      ],
+      "notes": [
+        "Public-source boundary fixed at 2026-07-27; 21 representative work records and 34 provenance sources validated."
+      ],
+      "completed_at": "2026-07-26T17:26:32.772Z"
+    },
+    "images": {
+      "status": "complete",
+      "artifacts": [
+        "data/images.jsonl"
+      ],
+      "notes": [
+        "21 public research images archived with source URLs, credits, hashes and separate derivatives; all public reuse rights remain needs_review."
+      ],
+      "completed_at": "2026-07-26T17:26:32.798Z"
+    },
+    "outputs": {
+      "status": "complete",
+      "artifacts": [
+        "00_artist/真锅大度_Daito_Manabe_案例研究.md",
+        "01_works/真锅大度_内容结构与叙事脚本.md"
+      ],
+      "notes": [
+        "Generated TSV, chronology, coverage, frontend bundle and missing-data report; authored bilingual case study and content narrative script.",
+        "Narrative script and final local-link verification completed."
+      ],
+      "completed_at": "2026-07-26T17:27:12.091Z"
+    },
+    "references": {
+      "status": "complete",
+      "artifacts": [
+        "04_visual-references/视觉参考候选_11例.md",
+        "decisions.json"
+      ],
+      "notes": [
+        "Visual-reference selection was outside the requested Stage 0–4 content scope.",
+        "Resumed Stage 5 to collect and review 8–12 current visual references before the required user selection checkpoint.",
+        "已检查并保存 11 个真实视觉参考页面预览；按 Stage 5 要求等待用户选择 1 个主参考和 2–3 个辅助参考。",
+        "用户于 2026-07-27 确认 A 为主参考，D、H、J 为辅助参考。"
+      ],
+      "started_at": "2026-07-26T17:30:58.251Z",
+      "completed_at": "2026-07-26T17:42:54.075Z"
+    },
+    "directions": {
+      "status": "complete",
+      "artifacts": [
+        "05_visual-directions/视觉方向比较与选择.md",
+        "05_visual-directions/index.html",
+        "decisions.json"
+      ],
+      "notes": [
+        "Visual directions were not requested.",
+        "依据已批准的 A/D/H/J 参考制作三套真实内容视觉方向。",
+        "三套方向均使用真实作品、年代、技术材料、来源与图片信用；已完成 1280×720 桌面和 390×844 移动检查，无破图、横向溢出或控制台警告。",
+        "用户确认以 03 为主，结合 01 信号闭环与 02 多比例作品墙；耐久设计规则已写入 decisions.json。"
+      ],
+      "started_at": "2026-07-26T17:42:54.149Z",
+      "completed_at": "2026-07-26T17:51:41.108Z"
+    },
+    "prototype": {
+      "status": "complete",
+      "artifacts": [
+        "06_prototype",
+        "06_prototype/qa/qa-report.md"
+      ],
+      "notes": [
+        "Prototype build was not requested.",
+        "开始构建本地双语响应式研究原型；Figma 与公开发布不在本阶段范围。",
+        "本地双语响应式原型完成：21 件作品、搜索、5 类筛选、图像墙/研究列表、详情、语言偏好与桌面/390px 移动布局；lint、build、5 项测试、浏览器 QA、21 个本地资源与 34 条外链检查全部通过。"
+      ],
+      "started_at": "2026-07-26T17:51:41.185Z",
+      "completed_at": "2026-07-26T18:12:41.425Z"
+    },
+    "figma": {
+      "status": "awaiting_user",
+      "artifacts": [
+        "07_figma/figma-write-plan.md",
+        "07_figma/target-inspection.md"
+      ],
+      "notes": [
+        "Stage 8 预检完成：确认目标必须为 Figma Design；项目无既有 Figma 链接，拟在唯一计划中新建草稿文件。已列出精确页面、Frame、组件与验证范围，等待最终外部写入确认。",
+        "用户已确认目标 Figma Design 文件 Z2EUnLTzPsmhGmJMgpNZDw。metadata 可读取且现有艺术家内容需保留；连接账户为 Starter/View，最小只读 use_figma、库查询、设计上下文和网页捕获初始化均返回 INVALID_ARGUMENT，未发生外部写入。等待编辑权限或另一个可编辑 Design 文件。",
+        "用户于 2026-07-27 再次提供同一链接；连接账户 JOE LI 仍为 Starter/View，最小只读 Plugin API 复核仍返回 INVALID_ARGUMENT。未创建、修改或删除任何 Figma 节点。",
+        "第三次提供同一链接后的复核结果仍为 Starter/View 与 INVALID_ARGUMENT；已停止重复调用，Stage 8 继续等待真实编辑权限。",
+        "用户于 2026-07-30 明确要求参照现有示例，将 1440px 网页完整复制为同一页面最右侧的一张可编辑长框；原五页拆分方案已取消。metadata 可读，但 Plugin API 与官方网页捕获初始化仍返回 INVALID_ARGUMENT，未发生任何 Figma 写入。",
+        "用户随后明确要求从代码网页导入 Figma；已将现有页面 0:1 作为 nodeId 再次初始化官方网页捕获。连接账户仍为 Starter / View，接口返回 INVALID_ARGUMENT，未创建捕获任务或改动任何节点。"
+      ],
+      "started_at": "2026-07-26T18:20:09.920Z"
+    },
+    "publish": {
+      "status": "in_progress",
+      "artifacts": [
+        "LICENSE",
+        "NOTICE.md",
+        "06_prototype/vercel.json"
+      ],
+      "notes": [
+        "用户已明确授权公开网站、公开 GitHub 仓库、继续 GitHub 登录授权、覆盖 Vercel Production，并选择 MIT 或 Apache-2.0；本项目采用 MIT。",
+        "MIT 仅覆盖网站代码与原创项目文档。第三方作品图像、摄影、商标、引用和来源页面不在授权范围内；研究原始下载与来源快照已排除出公开仓库和生产部署。",
+        "GitHub CLI 已重新授权为 teemo1157。Vinext 构建、5 项测试、lint、Vercel Next.js 构建及 21 个内部资源与 34 条外链检查已通过。"
+      ],
+      "started_at": "2026-07-31T00:28:17+08:00"
+    }
+  }
+}

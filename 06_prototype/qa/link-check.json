@@ -1,0 +1,302 @@
+{
+  "summary": {
+    "checked_at": "2026-07-30T16:27:53.875Z",
+    "internal_total": 21,
+    "internal_failed": 0,
+    "external_total": 34,
+    "external_failed": 0,
+    "external_restricted": 0
+  },
+  "internal": [
+    {
+      "url": "/works/daito-manabe--brain-processing-unit--2025/primary.jpg",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--phase-forms--2025/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--continuum-resonance--2024/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--generative-mv--2023/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--transformirror--2023/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--border-2021--2021/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--tokyo-2020-2021--2021/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--terminal-slam--2020/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--discrete-figures--2018/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--dissonant-imaginary--2018/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--light-field-theater--2018/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--morphecore--2018/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--bjork-quicksand-digital-livestreaming--2016/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--24-drones--2015/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--sensing-streams--2014/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--fencing-tracking-and-visualization-system--2012/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--perfume-global-site-project--2012/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--particles--2011/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--scorelight--2009/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--electric-stimulus-to-face--2008/primary.webp",
+      "status": "ok"
+    },
+    {
+      "url": "/works/daito-manabe--riot-please-a-ha--2004/primary.webp",
+      "status": "ok"
+    }
+  ],
+  "external": [
+    {
+      "url": "https://ars.electronica.art/keplersgardens/files/2020/09/cyberarts2020.pdf",
+      "final_url": "https://ars.electronica.art/keplersgardens/files/2020/09/cyberarts2020.pdf",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://calls.ars.electronica.art/2022/prix/winners/10598/",
+      "final_url": "https://ars.electronica.art/prix/en/opencall/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://calls.ars.electronica.art/2025/prix/winners/19941/",
+      "final_url": "https://calls.ars.electronica.art/2025/prix/winners/19941/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/",
+      "final_url": "https://daito.ws/en/archive/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/bjork-making-of-bjork-digital-livestreaming/",
+      "final_url": "https://daito.ws/en/archive/bjork-making-of-bjork-digital-livestreaming/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/border-2021/",
+      "final_url": "https://daito.ws/en/archive/border-2021/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/daito-manabe-phase-forms2025/",
+      "final_url": "https://daito.ws/en/archive/daito-manabe-phase-forms2025/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/discrete-figures/",
+      "final_url": "https://daito.ws/en/archive/discrete-figures/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/dissonant-imaginary/",
+      "final_url": "https://daito.ws/en/archive/dissonant-imaginary/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/electricstimulustoface/",
+      "final_url": "https://daito.ws/en/archive/electricstimulustoface/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/elevenplay-rhizomatiks-research-3-dancers-and-24-drones/",
+      "final_url": "https://daito.ws/en/archive/elevenplay-rhizomatiks-research-3-dancers-and-24-drones/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/light-field-theater/",
+      "final_url": "https://daito.ws/en/archive/light-field-theater/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/morphecore/",
+      "final_url": "https://daito.ws/en/archive/morphecore/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/particles/",
+      "final_url": "https://daito.ws/en/archive/particles/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/perfume_globalsite/",
+      "final_url": "https://daito.ws/en/archive/perfume_globalsite/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/riot-please/",
+      "final_url": "https://daito.ws/en/archive/riot-please/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/scorelight/",
+      "final_url": "https://daito.ws/en/archive/scorelight/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/archive/sensing-streams/",
+      "final_url": "https://daito.ws/en/archive/sensing-streams/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/en/profile/",
+      "final_url": "https://daito.ws/en/profile/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/brain-processing-unit/en/",
+      "final_url": "https://daito.ws/projects/selected-works/brain-processing-unit/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/continuum-resonance/en/",
+      "final_url": "https://daito.ws/projects/selected-works/continuum-resonance/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/en/",
+      "final_url": "https://daito.ws/projects/selected-works/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/fencing-tracking/en/",
+      "final_url": "https://daito.ws/projects/selected-works/fencing-tracking/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/generative-mv/en/",
+      "final_url": "https://daito.ws/projects/selected-works/generative-mv/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/terminal-slam/en/",
+      "final_url": "https://daito.ws/projects/selected-works/terminal-slam/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/tokyo2020-2021/en/",
+      "final_url": "https://daito.ws/projects/selected-works/tokyo2020-2021/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://daito.ws/projects/selected-works/transformirror/en/",
+      "final_url": "https://daito.ws/projects/selected-works/transformirror/en/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://vsvs.jp/en/exhibitions/daito-manabe-new-installation/",
+      "final_url": "https://vsvs.jp/en/exhibitions/daito-manabe-new-installation/",
+      "http_status": 200,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.j-mediaarts.jp/award/profile/manabe-daito/index.html",
+      "final_url": "https://www.j-mediaarts.jp/award/profile/manabe-daito/index.html",
+      "http_status": 206,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ntticc.or.jp/en/archive/participants/manabe-daito/",
+      "final_url": "https://www.ntticc.or.jp/en/archive/participants/manabe-daito/",
+      "http_status": 206,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ntticc.or.jp/en/archive/works/face-visualizer-instrument-and-copy/",
+      "final_url": "https://www.ntticc.or.jp/en/archive/works/face-visualizer-instrument-and-copy/",
+      "http_status": 206,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ntticc.or.jp/en/archive/works/generative-mv/",
+      "final_url": "https://www.ntticc.or.jp/en/archive/works/generative-mv/",
+      "http_status": 206,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ntticc.or.jp/en/archive/works/light-field-theater/",
+      "final_url": "https://www.ntticc.or.jp/en/archive/works/light-field-theater/",
+      "http_status": 206,
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ycam.jp/asset/pdf/press-release/2011/particles.pdf",
+      "final_url": "https://www.ycam.jp/asset/pdf/press-release/2011/particles.pdf",
+      "http_status": 206,
+      "status": "ok"
+    }
+  ]
+}

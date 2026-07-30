@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-30T16:28:36.298Z",
+  "target": {
+    "figma_url": "https://www.figma.com/design/Z2EUnLTzPsmhGmJMgpNZDw/调研展示｜毕设开题调研版?node-id=0-1",
+    "github_visibility": "public",
+    "github_repository": "https://github.com/teemo1157/daito-manabe-research-archive",
+    "vercel_project": "daito-manabe-research",
+    "vercel_url": "https://daito-manabe-research.vercel.app"
+  },
+  "counts": {
+    "files_scanned": 303,
+    "images": 21,
+    "unresolved_image_rights": 21
+  },
+  "errors": [
+    "Public GitHub target conflicts with unresolved image-rights records"
+  ],
+  "warnings": [
+    "Large file over 25 MiB: 06_prototype/.next/cache/webpack/client-production/0.pack",
+    "21 image records require rights review"
+  ]
+}

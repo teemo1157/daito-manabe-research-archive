@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-26T17:26:52.102Z",
+  "counts": {
+    "records": 21,
+    "existing": 21,
+    "missing": 0,
+    "duplicate_groups": 0
+  },
+  "duplicates": [],
+  "errors": [],
+  "warnings": [],
+  "results": [
+    {
+      "id": "img-daito-manabe--riot-please-a-ha--2004--001",
+      "local_path": "02_images/originals/daito-manabe--riot-please-a-ha--2004/001.webp",
+      "exists": true,
+      "bytes": 34834,
+      "sha256": "40cac823db7e6bd4ebbd0acb91ee1fc20a3ac10e092bcd68a84c5f9cc828aaca",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--electric-stimulus-to-face--2008--001",
+      "local_path": "02_images/originals/daito-manabe--electric-stimulus-to-face--2008/001.webp",
+      "exists": true,
+      "bytes": 34386,
+      "sha256": "5950cd2a21ea7b701e4298f7e481a80bdd39806e27c43d375f7be1a91cf42242",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--scorelight--2009--001",
+      "local_path": "02_images/originals/daito-manabe--scorelight--2009/001.webp",
+      "exists": true,
+      "bytes": 19948,
+      "sha256": "80fa6bb1298767f2a0617487ce87b0809d67aacb81905855999a023320cf4b03",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--particles--2011--001",
+      "local_path": "02_images/originals/daito-manabe--particles--2011/001.webp",
+      "exists": true,
+      "bytes": 37654,
+      "sha256": "0f28148622c332d862467e788adb078311b76355563eed0072bf66a68850ba05",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--perfume-global-site-project--2012--001",
+      "local_path": "02_images/originals/daito-manabe--perfume-global-site-project--2012/001.webp",
+      "exists": true,
+      "bytes": 93910,
+      "sha256": "4eced5aa390666afcb24e705b692ca60023e875f7ce81079e297abb67dce1673",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--fencing-tracking-and-visualization-system--2012--001",
+      "local_path": "02_images/originals/daito-manabe--fencing-tracking-and-visualization-system--2012/001.webp",
+      "exists": true,
+      "bytes": 75946,
+      "sha256": "f6c4fc37cdf65cf7dc6bc079acf13edd082b5f977a1e986ab34e8848f7cc4f68",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--sensing-streams--2014--001",
+      "local_path": "02_images/originals/daito-manabe--sensing-streams--2014/001.webp",
+      "exists": true,
+      "bytes": 19618,
+      "sha256": "377d16debf5252756d1c4711b8dcc9022a1f376bec39c758d7a23ff9f522ecf1",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--24-drones--2015--001",
+      "local_path": "02_images/originals/daito-manabe--24-drones--2015/001.webp",
+      "exists": true,
+      "bytes": 52930,
+      "sha256": "71f0849f2c97b8c54bc9c08589f4cb43fc5fb58f797cf3a9ec0f4d8cbd836309",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--bjork-quicksand-digital-livestreaming--2016--001",
+      "local_path": "02_images/originals/daito-manabe--bjork-quicksand-digital-livestreaming--2016/001.webp",
+      "exists": true,
+      "bytes": 41572,
+      "sha256": "7b47bd62f0e56868e8af480554d1d49463f8292dbeca7462b9b3d50a1bb68cb8",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--light-field-theater--2018--001",
+      "local_path": "02_images/originals/daito-manabe--light-field-theater--2018/001.webp",
+      "exists": true,
+      "bytes": 5286,
+      "sha256": "48808e099475366cca71d6d875c673947126dc371bf18a4d9e6317131b840a12",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--discrete-figures--2018--001",
+      "local_path": "02_images/originals/daito-manabe--discrete-figures--2018/001.webp",
+      "exists": true,
+      "bytes": 78168,
+      "sha256": "7ead0cbe259b6d9e32c318b081ce38653c9334d653ac63fac87fbf243b7f951f",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--dissonant-imaginary--2018--001",
+      "local_path": "02_images/originals/daito-manabe--dissonant-imaginary--2018/001.webp",
+      "exists": true,
+      "bytes": 49880,
+      "sha256": "b53913358fcdced741e1f6a44a9cf10a13356f6401300c06f76e20e0d6e76c34",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--morphecore--2018--001",
+      "local_path": "02_images/originals/daito-manabe--morphecore--2018/001.webp",
+      "exists": true,
+      "bytes": 424358,
+      "sha256": "8f6365bfa29605b276c0a33f9adcc517b53b422733431f87fa22e4e44daa51ba",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--terminal-slam--2020--001",
+      "local_path": "02_images/originals/daito-manabe--terminal-slam--2020/001.webp",
+      "exists": true,
+      "bytes": 179872,
+      "sha256": "ce531e199ecc7daa5c5818c32a33a4ff79758f35b450ab9ab84334316159c3bf",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--tokyo-2020-2021--2021--001",
+      "local_path": "02_images/originals/daito-manabe--tokyo-2020-2021--2021/001.webp",
+      "exists": true,
+      "bytes": 168286,
+      "sha256": "5d7b88f4affee1581412c55055801d663b524ef25e071da7c85212142cbb4f8a",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--border-2021--2021--001",
+      "local_path": "02_images/originals/daito-manabe--border-2021--2021/001.webp",
+      "exists": true,
+      "bytes": 167762,
+      "sha256": "13e106bb7b24fc9fe790814f629c798c37d00b535eee529f3019c9c0bbb41135",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--generative-mv--2023--001",
+      "local_path": "02_images/originals/daito-manabe--generative-mv--2023/001.webp",
+      "exists": true,
+      "bytes": 33246,
+      "sha256": "4c00d1b81b5e2476c369ce61284ce20c4ebf44b7969fac3ef0f5f4140f2ceb8f",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--transformirror--2023--001",
+      "local_path": "02_images/originals/daito-manabe--transformirror--2023/001.webp",
+      "exists": true,
+      "bytes": 115800,
+      "sha256": "56cf5903931bb60152a25ee38f86888170f00eb86c55fc0d3f0ed77778b68f0b",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--continuum-resonance--2024--001",
+      "local_path": "02_images/originals/daito-manabe--continuum-resonance--2024/001.webp",
+      "exists": true,
+      "bytes": 293454,
+      "sha256": "6940a2c3c2a892f2645974d7b603cf7b2a1c4e384d4622f5bd7fde0a4b5f8570",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--phase-forms--2025--001",
+      "local_path": "02_images/originals/daito-manabe--phase-forms--2025/001.webp",
+      "exists": true,
+      "bytes": 442754,
+      "sha256": "251aabbd87662201a39145a0013635ceae29a1560c87be27462c41a5d60060f6",
+      "detected_mime_type": "image/webp",
+      "issues": []
+    },
+    {
+      "id": "img-daito-manabe--brain-processing-unit--2025--001",
+      "local_path": "02_images/originals/daito-manabe--brain-processing-unit--2025/001.jpg",
+      "exists": true,
+      "bytes": 338197,
+      "sha256": "b488bf397a0342d82fd976ede7dd40b454a567e61bb9544320cce082b0be82c5",
+      "detected_mime_type": "image/jpeg",
+      "issues": []
+    }
+  ]
+}

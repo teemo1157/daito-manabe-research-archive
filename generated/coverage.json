@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-26T17:22:44.431Z",
+  "artworks": {
+    "total": 21,
+    "with_images": 21,
+    "missing_fields": 6,
+    "reviewed": 0
+  },
+  "sources": {
+    "total": 34
+  },
+  "images": {
+    "total": 21,
+    "downloaded": 21,
+    "unresolved_rights": 21
+  }
+}

@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+
+# Keep source captures and research downloads out of the public repository.
+# The website publishes credited previews whose rights remain needs_review.
+02_images/originals/
+03_sources/snapshots/

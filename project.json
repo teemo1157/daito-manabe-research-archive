@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "project_slug": "daito-manabe",
+  "artist": {
+    "native_name": "真锅大度",
+    "international_name": "Daito Manabe",
+    "official_website": "https://daito.ws/"
+  },
+  "output_language": "zh-en",
+  "research_boundary": {
+    "statement": "截至 2026-07-27，真锅大度官方网站 Archive Index 标示 355 条历史记录、跨度 2004–2025；本档案从官网与 Selected Works 中选取 21 个能说明其方法演变的代表项目，并以 ICC、YCAM、文化厅媒体艺术祭、Ars Electronica 与 VS. 等机构资料补充核验。该范围是公开来源研究样本，不宣称为作品全集或 catalogue raisonné。",
+    "accessed_at": "2026-07-27",
+    "primary_domains": [
+      "daito.ws",
+      "ntticc.or.jp",
+      "ycam.jp",
+      "j-mediaarts.jp",
+      "ars.electronica.art",
+      "vsvs.jp"
+    ]
+  },
+  "targets": {
+    "figma_url": "https://www.figma.com/design/Z2EUnLTzPsmhGmJMgpNZDw/调研展示｜毕设开题调研版?node-id=0-1",
+    "github_visibility": "public",
+    "github_repository": "https://github.com/teemo1157/daito-manabe-research-archive",
+    "vercel_project": "daito-manabe-research",
+    "vercel_url": "https://daito-manabe-research.vercel.app"
+  }
+}
