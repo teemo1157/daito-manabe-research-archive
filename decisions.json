@@ -212,11 +212,11 @@
     "vercel_url": "https://daito-manabe-research.vercel.app",
     "git_integration": "connected",
     "vercel_project_id": "prj_JegoJtyyiRDiiYOGcNHZ2K8yBOrZ",
-    "vercel_deployment_id": "dpl_8MxJv69749ws1yaekhmwxB78hAhT",
-    "production_commit": "6cc46509143601f5a4ccefd90b285b507bb71537",
+    "vercel_deployment_id": "dpl_AtmUTS6GMjaM2FwPNEub3eo7koLD",
+    "production_commit": "b0332b1c8b3a1e806f90ac6fc1d215f9660980ef",
     "production_status": "READY",
     "runtime_errors": 0,
-    "verified_at": "2026-07-31T00:39:37+08:00",
+    "verified_at": "2026-07-31T00:42:26+08:00",
     "third_party_policy": "MIT covers site code and original documentation only. Research downloads and captured source pages are excluded; credited website previews remain outside the MIT grant and retain needs_review rights status.",
     "approved_at": "2026-07-31"
   }
