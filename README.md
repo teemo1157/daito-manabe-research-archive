@@ -10,6 +10,8 @@
 
 ## 快速入口
 
+- [公开研究网站](https://daito-manabe-research.vercel.app)
+- [GitHub 公开仓库](https://github.com/teemo1157/daito-manabe-research-archive)
 - [艺术家案例研究](./00_artist/真锅大度_Daito_Manabe_案例研究.md)
 - [内容结构与叙事脚本](./01_works/真锅大度_内容结构与叙事脚本.md)
 - [图像使用与版权说明](./02_images/README.md)

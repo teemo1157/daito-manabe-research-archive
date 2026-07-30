@@ -210,7 +210,8 @@
     "license": "MIT",
     "vercel_project": "daito-manabe-research",
     "vercel_url": "https://daito-manabe-research.vercel.app",
-    "git_integration": "pending",
+    "git_integration": "connected",
+    "vercel_project_id": "prj_JegoJtyyiRDiiYOGcNHZ2K8yBOrZ",
     "third_party_policy": "MIT covers site code and original documentation only. Research downloads and captured source pages are excluded; credited website previews remain outside the MIT grant and retain needs_review rights status.",
     "approved_at": "2026-07-31"
   }

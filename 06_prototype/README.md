@@ -4,6 +4,8 @@
 21 件代表作品、21 张研究图片与 34 条来源记录。它是研究样本，不是作品全集或
 catalogue raisonné。
 
+公开版本：<https://daito-manabe-research.vercel.app>
+
 ## 本地运行
 
 需要 Node.js `>=22.13.0`。
