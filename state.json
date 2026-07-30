@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T00:33:31+08:00",
+  "updated_at": "2026-07-31T00:39:37+08:00",
   "stages": {
     "preflight": {
       "status": "complete",
@@ -108,19 +108,24 @@
       "started_at": "2026-07-26T18:20:09.920Z"
     },
     "publish": {
-      "status": "in_progress",
+      "status": "complete",
       "artifacts": [
         "LICENSE",
         "NOTICE.md",
-        "06_prototype/vercel.json"
+        "06_prototype/vercel.json",
+        "https://github.com/teemo1157/daito-manabe-research-archive",
+        "https://daito-manabe-research.vercel.app"
       ],
       "notes": [
         "用户已明确授权公开网站、公开 GitHub 仓库、继续 GitHub 登录授权、覆盖 Vercel Production，并选择 MIT 或 Apache-2.0；本项目采用 MIT。",
         "MIT 仅覆盖网站代码与原创项目文档。第三方作品图像、摄影、商标、引用和来源页面不在授权范围内；研究原始下载与来源快照已排除出公开仓库和生产部署。",
         "GitHub CLI 已重新授权为 teemo1157。Vinext 构建、5 项测试、lint、Vercel Next.js 构建及 21 个内部资源与 34 条外链检查已通过。",
-        "公开仓库 https://github.com/teemo1157/daito-manabe-research-archive 已创建；Vercel 项目 daito-manabe-research 已连接该仓库，等待 main 的 Git 源 Production 构建完成。"
+        "公开仓库 https://github.com/teemo1157/daito-manabe-research-archive 已创建；Vercel 项目 daito-manabe-research 已连接该仓库，等待 main 的 Git 源 Production 构建完成。",
+        "Git 源 Production 部署 dpl_8MxJv69749ws1yaekhmwxB78hAhT 已以提交 6cc46509143601f5a4ccefd90b285b507bb71537 完成，并绑定 https://daito-manabe-research.vercel.app。",
+        "匿名访问检查通过：主页、archive.json、OG 图片、作品图片和 GitHub 仓库均返回 200；中英文切换与搜索正常，浏览器控制台和 Vercel 运行错误均为 0。"
       ],
-      "started_at": "2026-07-31T00:28:17+08:00"
+      "started_at": "2026-07-31T00:28:17+08:00",
+      "completed_at": "2026-07-31T00:39:37+08:00"
     }
   }
 }
